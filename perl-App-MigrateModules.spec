@@ -4,7 +4,7 @@
 #
 Name     : perl-App-MigrateModules
 Version  : 0.004
-Release  : 9
+Release  : 10
 URL      : https://cpan.metacpan.org/authors/id/D/DB/DBOOK/App-MigrateModules-0.004.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DB/DBOOK/App-MigrateModules-0.004.tar.gz
 Summary  : 'Migrate installed CPAN modules from one Perl to another'
@@ -129,4 +129,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/App/MigrateModules.pm
+/usr/lib/perl5/*
