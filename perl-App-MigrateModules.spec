@@ -7,7 +7,7 @@
 #
 Name     : perl-App-MigrateModules
 Version  : 0.004
-Release  : 18
+Release  : 19
 URL      : https://cpan.metacpan.org/authors/id/D/DB/DBOOK/App-MigrateModules-0.004.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DB/DBOOK/App-MigrateModules-0.004.tar.gz
 Summary  : 'Migrate installed CPAN modules from one Perl to another'
